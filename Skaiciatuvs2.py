@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-def skaičiatuvaslksjhdgidshgkhdsjghdsfghdjkgh nigga():
-=======
+
 def skaičiatuvs():
->>>>>>> a0f67c722491857d35481eb587f283e61a289016
     print("Pasirinkite veiksmą:")
     print("1. Sudėtis")
     print("2. Atimtis")
