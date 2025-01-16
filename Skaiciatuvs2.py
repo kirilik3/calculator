@@ -5,7 +5,11 @@ def skaičiatuvas():
     print("3. Daugyba")
     print("4. Dalyba")
 
+    pasirinkimas = input("Įveskite pasirinkto veiksmo numerį (1/2/3/4): ")
 
+if pasirinkimas in ['1', '2', '3', '4']:
+        num1 = float(input("Įveskite pirmą skaičių: "))
+        num2 = float(input("Įveskite antrą skaičių: "))
 
 
 
