@@ -25,49 +25,6 @@ if pasirinkimas == '1':
 skaičiatuvas()
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 def skaiciuotuvas(pasirinkimas, num1, num2):
     if pasirinkimas in ['1', '2', '3', '4']:
         if pasirinkimas == '1':
