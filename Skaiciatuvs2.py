@@ -1,4 +1,4 @@
-def skaičiatuvas():
+def skaičiatuvaslksjhdgidshgkhdsjghdsfghdjkgh nigga():
     print("Pasirinkite veiksmą:")
     print("1. Sudėtis")
     print("2. Atimtis")
