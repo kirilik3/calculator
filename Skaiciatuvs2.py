@@ -61,3 +61,4 @@ def test_skaiciuotuvas():
     print("Visi testai praėjo sėkmingai.")
 
 test_skaiciuotuvas()
+ghghhgg
