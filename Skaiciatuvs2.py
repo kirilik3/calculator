@@ -24,7 +24,6 @@ def skaičiatuvs():
 
 skaičiatuvas()
 
-
 def skaiciuotuvas(pasirinkimas, num1, num2):
     if pasirinkimas in ['1', '2', '3', '4']:
         if pasirinkimas == '1':
@@ -62,3 +61,4 @@ def test_skaiciuotuvas():
     print("Visi testai praėjo sėkmingai.")
 
 test_skaiciuotuvas()
+ghghhgg
